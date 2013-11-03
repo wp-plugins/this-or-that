@@ -1,9 +1,9 @@
 === Thir-or-That ===
 Contributors: andrex84
 Tags: Rating, Ranking, Compare, Facemash, ELO, Chess Algorithm, Vote, Voting, Hot or Not, Research, Match, Pictures, Product Compare, Social, Collaborate, Andre Boekhorst
-Requires at least: 3.6.1
-Tested up to: 3.6.1
-Stable tag: 1.0
+Requires at least: 3.7.1
+Tested up to: 3.7.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,25 +13,25 @@ Let your visitors vote between posts and images to create honest rankings. Uses 
 
 Inspired by Facemash, Facebook's predecessor, this plugin sets up two items next to each other and lets visitors choose which one they favor. Each 'vote' adjusts the rating of both items. You can then easily create lists with your visitors favorite items.
 
-=Works with content already on your site!=
+= Works with content already on your site! =
 Start by using what you've already got. The This-or-That plugin works with any post type already on your website like your blog posts, photos, recipies, or WooCommerce products. 
 
-=Item Manager=
+= Item Manager =
 If you want to keep your This-or-That items seperate thats no problem. This plugin creates a seperate section in your Admin where you can create and manage your 'This-or-That' items. You can even sort them by ranking, wins, and losses.
 
-=Easy Implementation=
+= Easy Implementation =
 If you've added some This-or-That items, the only thing left to do is add the shortcode `[thisorthat]` to a page. Displaying the ranking lists is just as easy: `[thisorthat_ranking]`. Please see the FAQ for some extra options like showing post-types or categories.
 
-=Elegant AJAX Interface=
+= Elegant AJAX Interface =
 The plugin comes with an elegant, user-friendly voting interface. Items will automatically get updated without a page-refresh and you can even vote using your *left* and *right* keys on your keyboard.
 
-=Create Lists per Category=
+= Create Lists per Category =
 Show lists from your different categories or custom taxonomies.
 
-=Uses the ELO Rating system=
+= Uses the ELO Rating system =
 This-or-That uses the [ELO Rating System](http://en.wikipedia.org/wiki/Elo_rating_system "ELO Rating System"), created to rank chess players but now used in a variety of fields.
 
-=Be Creative!=
+= Be Creative! =
 There are plenty of ways to use this plugin; get some insight in what your visitors like or let them engage with your sites content. Some stuff you might want to use this plugin with:
 
 * Recipies
@@ -43,6 +43,8 @@ There are plenty of ways to use this plugin; get some insight in what your visit
 * Books
 * Etc...
 
+Read more on the [authors website](http://andreboekhorst.nl/wordpress/this-or-that-plugin/ "Andr&eactute Boekhorst").
+
 == Installation ==
 
 1. Unzip and upload the "this-or-that" folder to the "/wp-content/plugins/" directory.
@@ -53,10 +55,10 @@ There are plenty of ways to use this plugin; get some insight in what your visit
 
 == Frequently Asked Questions ==
 
-=How do I get started=
+= How do I get started =
 You can use the plugin anywhere in your websites content. First make sure you have some content to compare by adding items to the *This-or-That* post-type in the Admin. Make sure to add some featured images! When this has been done, you can add the shortcode `[thisorthat]` to any of your posts or pages.
 
-=How do I display the ranking list=
+= How do I display the ranking list =
 This van be done by using the shortcode `[thisorthat_ranking]`.
 
 = How to use my own Posts types? =
