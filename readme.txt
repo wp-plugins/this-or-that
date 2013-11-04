@@ -1,9 +1,9 @@
-=== Thir-or-That ===
+=== This-or-That ===
 Contributors: andrex84
 Tags: Rating, Ranking, Compare, Facemash, ELO, Chess Algorithm, Vote, Voting, Hot or Not, Research, Match, Pictures, Product Compare, Social, Collaborate, Andre Boekhorst
 Requires at least: 3.7.1
 Tested up to: 3.7.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -86,3 +86,9 @@ You can use the *thumb_size* variable. Example `[thisorthat thumb_size="medium"]
 == Changelog ==
 = 1.0 =
 * Initial release.
+
+= 1.0.1 =
+* Readme.txt changes.
+
+= 1.0.2 =
+* Readme.txt changes.
