@@ -13,6 +13,9 @@ Let your visitors vote between posts and images to create honest rankings. Uses 
 
 Inspired by Facemash, Facebook's predecessor, this plugin sets up two items next to each other and lets visitors choose which one they favor. Each 'vote' adjusts the rating of both items. You can then easily create lists with your visitors favorite items.
 
+
+See this [plugin in action](http://andreboekhorst.nl/wordpress/this-or-that-plugin/example-moviemash/ "Moviemash").
+
 = Works with content already on your site! =
 Start by using what you've already got. The This-or-That plugin works with any post type already on your website like your blog posts, photos, recipies, or WooCommerce products. 
 
@@ -43,7 +46,7 @@ There are plenty of ways to use this plugin; get some insight in what your visit
 * Books
 * Etc...
 
-Read more on the [authors website](http://andreboekhorst.nl/wordpress/this-or-that-plugin/ "Andr&eactute Boekhorst").
+Read more on the [plugin website](http://andreboekhorst.nl/wordpress/this-or-that-plugin/ "Andr&eactute Boekhorst").
 
 == Installation ==
 
@@ -92,3 +95,6 @@ You can use the *thumb_size* variable. Example `[thisorthat thumb_size="medium"]
 
 = 1.0.2 =
 * Readme.txt changes.
+
+= 1.0.3 =
+- Fixed several Javascript bugs. With help from gdibble.
