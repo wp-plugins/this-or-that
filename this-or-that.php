@@ -4,7 +4,7 @@
 Plugin Name: This-or-That by Andr&eacute; Boekhorst
 Plugin URI: http://andreboekhorst.nl/wordpress/this-or-that-plugin/
 Description: Let your visitors vote between posts and images to create honest ranking lists. Uses the ELO Algorithm and works with your site's existing content.
-Version: 1.0
+Version: 1.0.3
 Author: André Boekhorst
 Author URI: http://www.andreboekhorst.nl
 License: GPL2
