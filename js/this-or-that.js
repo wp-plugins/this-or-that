@@ -26,9 +26,10 @@ function set_thisorthat_links(){
 		jQuery(this).parents("#this-or-that").css({ "min-height": h });
 
 		jQuery(this).parents(".this-or-that_item")
-			.animate({opacity: "0"}, { queue: false, duration: 300 })
-			.toggle("scale",{ percent: "140" }, 400, function(){
-
+			.addClass('selected')
+			.animate({ 
+				// opacity: "0",
+			}, 400, function(){
 				jQuery("#this-or-that").animate({ opacity: 0 }, 200);
 
 				// Do an AJAX request to save the 'favorite', simultaniously with retrieving the 'new' items.

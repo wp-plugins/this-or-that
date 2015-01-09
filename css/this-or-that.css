@@ -41,6 +41,14 @@ License: GPL2
 
 .this-or-that_column .this-or-that_item{
 	text-align: center;
+	opacity: 1;
+	
+}
+
+.this-or-that_column .this-or-that_item.selected{
+	transition: all .4s ease;
+	transform: scale(1.4);
+	opacity: 0;
 }
 
 .this-or-that_thumbwrapper{

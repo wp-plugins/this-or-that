@@ -2,8 +2,8 @@
 Contributors: andrex84
 Tags: Rating, Ranking, Compare, Facemash, ELO, Chess Algorithm, Vote, Voting, Hot or Not, Research, Match, Pictures, Product Compare, Social, Collaborate, Andre Boekhorst
 Requires at least: 3.7.1
-Tested up to: 3.7.1
-Stable tag: 1.0.3
+Tested up to: 4.1
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Let your visitors vote between posts and images to create honest rankings. Uses 
 
 == Description ==
 
-Inspired by Facemash, Facebook's predecessor, this plugin sets up two items next to each other and lets visitors choose which one they favor. Each 'vote' adjusts the rating of both items. You can then easily create lists with your visitors favorite items.
+Inspired by Facemash, Facebook's predecessor, this plugin sets up two items next to each other and lets visitors choose which one they favor. Each 'vote' adjusts the rating of both items. You can then easily create lists with your visitors favorite items. [Updated Fix for WordPress 4.1]
 
 
 See this [plugin in action](http://andreboekhorst.nl/wordpress/this-or-that-plugin/example-moviemash/ "Moviemash").
